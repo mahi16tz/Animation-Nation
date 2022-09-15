@@ -1,0 +1,18 @@
+div#first{
+    height: 100px;
+    width:100%;
+    background: #fafa;
+    animation: reverse.5s linear 1s infinite ;
+}
+div#second{
+    height: 100px;
+    width:100%;
+    background: #bbb;
+    animation:reverse.3s linear 1s infinite;
+}
+div#third{
+    height: 100px;
+    width: 100%;
+    background:blanchedalmond;
+    animation:reverse.1s linear 0s infinite;
+}
